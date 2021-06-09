@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Tata Ace Gold - Electric Truck Conversion",
+      "body": "We had an opportunity to visit Nothway Motorsports to check out their new electric truck conversion kit. In this blog, we talk about the ideas implemented in this certified kit, after experiencing the truck and speaking to the founder Mr Hemank Dhabade.\nThe Tata Ace, more lovingly known as the Chhota Hathi, has been one of Tata Motor's huge success stories. I can only think of the 407 as the other one. Mini truck operators have fallen in love with this model. Though a wee bit underpowered with its 2 cylinder engine, the low operating and maintenance costs, along with a loading capacity of 1 t has been a hit formula. We read recently in the news about TML making plans to launch the electric Ace. And we did not have to imagine too much about the electric Ace experience. Our friends at Northway Motorsports had already been working on electrifying the workhorse - ok, make that work-elephant, and are ready now.\n​\nHere are the specs: 15 kW motor. 13 kWH battery pack. Range from 80 to 150 km depending on load conditions. I would have been happier with a range of around 200 km. That means that some intercity trips can happen. But extra range means extra investments. For a higher range, extra battery will also eat into your loading area. So the math is to discover what price / range combination works best for truck operators. Northway feels that a 100 km range is good enough. They have surveyed 500 Ace users, and real life data indicates that most vehicles do about that much in a day. ",
+      "author": "Atul Gopal",
+      "id": 1
+    },
+    {
+      "title": "ARM vs. x86 Battle Royal",
+      "body": "ARM and x86 have been doing battle for the last decade. ARM tried to move into the server market and failed; Intel, which carries most of the x86 burden, tried to move on cellphones and failed. The battle for tablets is ongoing, with ARM in the lead, and the battle for notebooks continues with Intel mainly in the lead.\n\nUp until recently, Qualcomm has primarily been the standard-bearer for ARM, but that will change if Nvidia's attempt to buy ARM is successful; which is likely. Nvidia seems to be more interested in servers than smartphones at the moment. Still, they do have their eye on PCs, where conflict with Qualcomm is likely to emerge.",
+      "author": "Rob Enderle",
+      "id": 2
+    },
+    {
+      "title": "Nvidia and the End of Movies as We Know Them",
+      "body": "GTC21, this year's Nvidia GPU Technology Conference, was terrific as always.\n\nThe alleged focus was on AI and autonomous cars. But, as I watched presentation after presentation from folks out of the entertainment industry, I realized that if you started putting some of these various elements together, they effectively predicted the end of movies as stand-alone, costly entertainment.\n\nInstead, they were forecasting the emergence of movies as a linear, highly-automated process beginning with the idea, transitioning through books and games, and eventually becoming custom entertainment that could be different for everyone watching individually or in small groups. I think theaters will make less and less sense as we transition into this blended mixed reality, AI-driven, virtual movie future.\n\nWe are going to end with my product of the week, which this time isn't something you can yet (or possibly ever) buy, but the most extraordinary SUV I've ever seen. In this instance, showcased by Audi at Nvidia's GTC.",
+      "author": "Rob Enderle",
+      "id": 3
+    },
+    {
+      "title": "A Cure for What Ails Social Media",
+      "body": "In the beginning, social media promised to connect us to existing friends, help us form new relationships, and as a result help make us find happier lives. Facebook, initially, was just a way for new students to meet new friends, Quora was a way to get crowdsourced answers, and Twitter sort of a way to alert friends about things they might find interesting.\n\nToday Facebook is the home of fake news, with way too many ads for companies focused on finding new ways to cheat you out of your hard-earned money. Twitter is increasingly a place to experience or hand out abuse. Quora, which ironically is a source for the cause of this problem, has drifted into providing a forum for those that like alternative history.\n\nAll are guilty of allowing unhealthy manipulation, are increasingly viewed as existential risks, and it is increasingly hard to argue against the impression that the brilliant people avoid these platforms. This suggests that, eventually, governments will grow tired of these services and either fine them into obsolescence or treat them like utilities with heavy government oversight -- or even government control or ownership.\n\nI like to think of solutions to problems, not just point out that outcomes are dire -- so let's do both this week. Let's talk about what is likely to happen to social media companies and how they might work to prevent that outcome. We'll close with my product of the week, a category-busting new smartwatch from OnePlus that will ship in a few days.",
+      "author": "Eva Nicholls",
+      "id": 4
+    },
+    {
+      "title": "An Update on the Fourth Industrial Revolution",
+      "body": "We are in the midst of what many are calling the Fourth Industrial Revolution, or Industry 4.0. This is a time of disruption, massive change, opportunities, and significant risks. Fortunes will shift, companies will fail, and new companies will rise from the ashes.\n\nLike every revolution before, we will better understand what we can do, and likely do worse concerning work-life balance and family importance. There is also a significant risk for abuse and the loss of our humanity. This last could turn out to be a good thing.\n\nThis week, let's talk about where we are in this latest Industrial Revolution and where we'll likely be when this wave ends in 10 to 40 years.\n\nWe'll close with my product of the week, a new conferencing camera/speaker solution from Poly.",
+      "author": "Madge Barnett",
+      "id": 5
+    },
+    {
+      "title": "The Evolving Future of the Office",
+      "body": "As I write this, a growing number of companies have either announced plans to move out of California to a more \"friendly\" state or have already done so.\n\nHowever, in this environment where people don't need to go physically into the office, it is unclear if any California-based workforce must or will move with these companies that are fleeing the Golden State.\n\nI participated in a group analyst event several weeks ago about companies converting their offices into collections of meeting rooms. We couldn't picture people who have been meeting remotely for so many months suddenly concluding that the long commute to and from the office was worth meeting in person; given they are now okay with using solutions like Webex or Microsoft Teams.",
+      "author": "Ed Mann",
+      "id": 6
+    },
+    {
+      "title": "Bolt-On Security the Linux Way",
+      "body": "s longtime readers know, while I try to stay knowledgeable on the many sub-disciplines of information technology, my passion is for information security. Since it's been a while since I've contributed any InfoSec knowhow, I wanted to rectify that. I couldn't have timed this realization better, because (as you'll see) the techniques on display are perfect for protecting your deluge of tax season documents.\n\nIn this piece, I aim to provide a range of simple but effective options for encrypting a small number of files. In particular, these options are salient for use cases like tax filing, where users are sending sensitive documents to recipients with an unknown degree of technical proficiency. Fond as I am of PGP, I'll bet you your refund check that your accountant doesn't know the first thing about using it.\n\nBefore going further, I'll note that all of these file encryption techniques require you to use an additional channel for transmitting shared secrets, primarily passwords. The file will be sent through one pre-agreed channel, while the means of decrypting it will be sent via another.\n\nThere are too many viable auxiliary channels to enumerate, but just make sure that you take reasonable steps to pick one that isn't easily compromised. The fact that you are using an additional channel is itself protection against the file's compromise: without it, sending an encrypted file and its decryption password on the same channel creates a single point of failure. Using two channels requires two successful attacks by your adversaries to fail.",
+      "author": "Ronald Kemp",
+      "id": 7
+    }
+  ]
+}
