@@ -49,6 +49,7 @@
 	background-color: var(--doge-color2);
 	border-radius: 10px;
   	white-space: nowrap;
+	margin-right: 10px;
 }
 
 .navbar a:first-child:hover {
@@ -156,4 +157,12 @@
 .error a{
   text-decoration: none;
   color: var(--doge-color1);
+}
+
+@media screen and (max-width:450px){
+	.navbar .links{
+		display: flex;
+		flex-direction: column;
+	}
+	
 }
